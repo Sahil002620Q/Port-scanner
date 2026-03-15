@@ -1,2 +1,2 @@
 # Port-scanner
-Pyhton based port scanning tool 
+Python based port scanning tool 
